@@ -6323,19 +6323,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL_3340\\.nuget\\packages\\": {}
+    "C:\\Users\\Angel Rivera\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL_3340\\Desktop\\01-2022\\Aplicada II\\Tienda2022\\TiendaOnline\\TiendaOnline\\TiendaOnline.csproj",
+      "projectUniqueName": "C:\\Users\\Angel Rivera\\Documents\\GitHub\\ProyectoPAII\\TiendaOnline\\TiendaOnline\\TiendaOnline.csproj",
       "projectName": "TiendaOnline",
-      "projectPath": "C:\\Users\\DELL_3340\\Desktop\\01-2022\\Aplicada II\\Tienda2022\\TiendaOnline\\TiendaOnline\\TiendaOnline.csproj",
-      "packagesPath": "C:\\Users\\DELL_3340\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL_3340\\Desktop\\01-2022\\Aplicada II\\Tienda2022\\TiendaOnline\\TiendaOnline\\obj\\",
+      "projectPath": "C:\\Users\\Angel Rivera\\Documents\\GitHub\\ProyectoPAII\\TiendaOnline\\TiendaOnline\\TiendaOnline.csproj",
+      "packagesPath": "C:\\Users\\Angel Rivera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Angel Rivera\\Documents\\GitHub\\ProyectoPAII\\TiendaOnline\\TiendaOnline\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DELL_3340\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Angel Rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6402,7 +6407,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
