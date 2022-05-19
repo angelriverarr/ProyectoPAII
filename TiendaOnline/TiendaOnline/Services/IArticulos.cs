@@ -12,5 +12,8 @@ namespace TiendaOnline.Services
         public List<Articulos> GetAll();
 
         public Articulos loadArticulo(Articulos ar);
+        
+        //comit
+
     }
 }
